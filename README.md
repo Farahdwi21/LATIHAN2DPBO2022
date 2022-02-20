@@ -2,3 +2,4 @@
 
 ## Janji
 Saya Farah Dwi Ameliani 2001286 mengerjakan LATIHAN1DPBO2022 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.Aamiin
+![C++](https://user-images.githubusercontent.com/99456071/154840145-73a8c660-a854-4ddb-afa5-dd22b1fc0fa6.jpeg)
